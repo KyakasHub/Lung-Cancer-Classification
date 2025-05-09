@@ -22,6 +22,7 @@ Objectives
 Observable:
 1. To determine which features strongly correlate with Lung cancer.
 2. To clearly visualize the distribution of Lung Cancer within the dataset.
+
 Measurable:
 1. To fit and train a classification model that can predict a positive Lung cancer case.
 2. To evaluate the Model’s accuracy using a confusion matrix.
