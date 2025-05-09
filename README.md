@@ -8,13 +8,14 @@
 
 4.Symptoms of lung cancer include a cough that does not go away, chest pain and shortness of breath.
 
-5.Lung cancer is often diagnosed at advanced stages when treatment options are limited.
+Problem Statement:
+Lung cancer is often diagnosed at advanced stages when treatment options are limited.
 
-6.According to the  International Agency for Research on Cancer (IARC), Lung cancer remains the leading cause of cancer death, with an estimated 1.8 million deaths in 2020.
+According to the  International Agency for Research on Cancer (IARC), Lung cancer remains the leading cause of cancer death, with an estimated 1.8 million deaths in 2020.
 
-7.Earlier diagnosis would reduce the number of deaths and improve survival rates.
+Earlier diagnosis would reduce the number of deaths and improve survival rates.
 
-8.This project therefore focuses on leveraging on Machine Learning techniques to predict positive Lung cancer cases.
+This project therefore focuses on leveraging on Machine Learning techniques to predict positive Lung cancer cases.
 
 Objectives
 
@@ -25,8 +26,4 @@ Measurable:
 1. To fit and train a classification model that can predict a positive Lung cancer case.
 2. To evaluate the Model’s accuracy using a confusion matrix.
 
-
-
-
-![image](https://github.com/user-attachments/assets/acc7e972-56b6-45ab-82a9-66bbeecd0fd7)
 
